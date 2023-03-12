@@ -165,6 +165,7 @@ header .follow a:hover{
 
 .home .image img{
     width:100%;
+    clip-path: circle();
 }
 
 .home .content{
