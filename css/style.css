@@ -10,7 +10,7 @@
     box-sizing: border-box;
     outline: none; border:none;
     text-decoration: none;
-    text-transform: capitalize;
+    text-transform: none;
     transition: all .2s linear;
     line-height: 1.5;
 }
@@ -180,12 +180,12 @@ header .follow a:hover{
 .home .content h3{
     font-size: 4.5rem;
     color:#111;
-    text-transform: uppercase;
+   
 }
 
 .home .content h3 span{
     color:var(--main-color);
-    text-transform: uppercase;
+    
 }
 
 .home .content .info{
